@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bdml version="3.0" xmlns="http://ssbd.qbic.riken.jp/bdml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ssbd.qbic.riken.jp/bdml http://ssbd.qbic.riken.jp/bdml/bdml3.0.xsd">
+<info>
+	<bdmlID>78ebc6f7-b007-4285-8213-062e503bbeda</bdmlID>
+        <title>BDML file of digitized cellular dynamics of a C. elegans embryo</title>
+	<release>2017-10-03</release>
+        <license>CC BY-NC-SA</license>
+</info>
+<summary>
+        <description>Digitized cellular dynamics of a C. elegans embryo</description>
+        <datatype>cellular dynamics</datatype>
+        <organism>C. elegans</organism>
+        <localID>Membrane</localID>
+        <basedon>Experiment</basedon>
+	<contributors>
+		<person>
+			<first-name>Yusuke</first-name>
+			<last-name>Azuma</last-name>
+		</person>
+		<person>
+			<first-name>Shuichi</first-name>
+			<last-name>Onami</last-name>
+			<ORCID>0000-0002-8255-1724</ORCID>
+			<affiliation>
+				<E-mail>sonami@riken.jp</E-mail>
+			</affiliation>
+		</person>
+	</contributors>
+	<PMID>28629355</PMID>
+</summary>
+<contact>
+	<person>
+		<first-name>Shuichi</first-name>
+		<last-name>Onami</last-name>
+		<ORCID>0000-0002-8255-1724</ORCID>
+		<affiliation>
+			<E-mail>sonami@riken.jp</E-mail>
+			<organization>RIKEN</organization>
+			<department>Quantitative Biology Center</department>
+			<laboratory>Laboratory for Developmental Dynamics</laboratory>
+			<address>2-2-3 Minatojima-minamimachi, Chuo-ku, Kobe 650-0047, Japan</address>
+		</affiliation>
+	</person>
+</contact>
+<methods>
+        <summary>See details in Azuma and Onami (2017) BMC Bioinformatics 18, 307.</summary>
+	<source>http://ssbd.qbic.riken.jp/data/source/Ce_MEM_AY/Membrane.zip</source>
+</methods>
+<extfile>
+	<bd5File>Membrane_bd5.h5</bd5File>
+</extfile>
+</bdml>
