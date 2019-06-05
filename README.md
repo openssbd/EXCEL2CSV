@@ -1,6 +1,6 @@
 # EXCEL2CSV
 
-Sample of metadata decoder and importer for SSBD
+Sample of metadata converter and importer for SSBD
 
 * Sample project including metadata in EXCEL format and TIF images
   * Collection_test/20-Azuma-WormMembrane/20-Azuma-WormMembrane.xlsx
